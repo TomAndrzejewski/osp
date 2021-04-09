@@ -14,11 +14,11 @@
 			<Item Name="Core def.ctl" Type="VI" URL="../Controls/Core def.ctl"/>
 			<Item Name="Icons def.ctl" Type="VI" URL="../Controls/Icons def.ctl"/>
 			<Item Name="JSON image def.ctl" Type="VI" URL="../Controls/JSON image def.ctl"/>
-			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../Controls/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="State Def.ctl" Type="VI" URL="../Controls/State Def.ctl"/>
 		</Item>
 		<Item Name="subVI" Type="Folder">
 			<Item Name="Process Image.vi" Type="VI" URL="../subVi/Process Image.vi"/>
+			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../subVi/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="State Logic.vi" Type="VI" URL="../subVi/State Logic.vi"/>
 			<Item Name="ToSTM.vi" Type="VI" URL="../subVi/ToSTM.vi"/>
 		</Item>
